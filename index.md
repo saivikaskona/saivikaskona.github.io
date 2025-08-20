@@ -4,6 +4,8 @@ title: "Saivikaskona"
 subtitle: "Researcher | Publications | Achievements"
 ---
 
+<link rel="stylesheet" href="style.css">
+
 Welcome to my personal website!  
 Here you will find information about my research, achievements, publications, and international visits.
 
