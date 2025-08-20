@@ -1,0 +1,92 @@
+body {
+  /* Background image with a subtle overlay */
+  background: linear-gradient(rgba(34,34,34,0.6), rgba(34,34,34,0.6)), url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Animated fade-in for the main content */
+main, .main-content, #main-content, #content {
+  animation: fadeIn 1.2s ease;
+  background: rgba(34,34,34,0.75);
+  padding: 2rem;
+  border-radius: 18px;
+  max-width: 800px;
+  margin: 3rem auto 3rem auto;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+/* Cool animated underline for section headings */
+h2, h3 {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0.7em;
+}
+
+h2::after, h3::after {
+  content: '';
+  display: block;
+  width: 60%;
+  height: 4px;
+  background: linear-gradient(90deg, #56ccf2 0%, #2f80ed 100%);
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  animation: slideIn 1s cubic-bezier(.68,-0.55,.27,1.55);
+}
+
+@keyframes slideIn {
+  from { width: 0; }
+  to { width: 60%; }
+}
+
+/* Button style */
+a.button, button {
+  background: linear-gradient(90deg, #56ccf2 0%, #2f80ed 100%);
+  color: #fff !important;
+  border: none;
+  border-radius: 24px;
+  padding: 0.7em 2em;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 1em 0;
+  box-shadow: 0 4px 12px rgba(44, 62, 80, 0.15);
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.button:hover, button:hover {
+  transform: translateY(-2px) scale(1.04);
+  box-shadow: 0 8px 20px rgba(44, 62, 80, 0.25);
+}
+
+/* Make links stand out */
+a {
+  color: #56ccf2;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #2f80ed;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  main, .main-content, #main-content, #content {
+    padding: 1rem;
+    margin: 1rem;
+  }
+}
