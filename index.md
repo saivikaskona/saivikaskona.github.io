@@ -16,7 +16,6 @@ I am a researcher at the University of Melbourne, Australia and Indian Institute
 ## Contact
 
 - Email: [saikona@iisc.ac.in]
-- 
 
 ---
 
