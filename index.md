@@ -1,41 +1,25 @@
 ---
 layout: home
-title: "Saivikaskona"
-subtitle: "Researcher | Publications | Achievements"
+title: "Sai Vikas Kona"
+subtitle: "Research Scholar | University of Melbourne, Australia | Indian Institute of Science, Bangalore"
 ---
 
 <link rel="stylesheet" href="style.css">
 
-Welcome to my personal website!  
-Here you will find information about my research, achievements, publications, and international visits.
+WEBSITE IS CURRENTLY UNDER PROGRESS!!!!!!!
 
 ## About Me
 
-I am a researcher with interests in [your research areas here].  
-[Add a brief bio or introduction here.]
+I am a researcher at the University of Melbourne, Australia and Indian Institute of Science, Bangalore. I work on the dynamics in the relationship between river water discharge and levels.  
 
-## Achievements
+- 
 
-- [List your key achievements or awards here]
-- [Another achievement]
-- [And more...]
-
-## Publications
-
-- [Title of Publication 1](#) – Journal/Conference Name, Year
-- [Title of Publication 2](#)
-- [Add more as needed]
-
-## International Visits
-
-- [Institution/Conference, Country, Year]
-- [Another visit]
 
 ## Contact
 
-- Email: [your-email@example.com]
-- [Any other contact/social links]
+- Email: [saikona@iisc.ac.in]
+- 
 
 ---
 
-*This website is always being updated as my career progresses. Thank you for visiting!*
+*This website will be updated soon!*
