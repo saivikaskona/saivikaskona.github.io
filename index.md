@@ -12,8 +12,6 @@ WEBSITE IS CURRENTLY UNDER PROGRESS!!!!!!!
 
 I am a researcher at the University of Melbourne, Australia and Indian Institute of Science, Bangalore. I work on the dynamics in the relationship between river water discharge and levels.  
 
-- 
-
 
 ## Contact
 
