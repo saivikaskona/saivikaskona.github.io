@@ -9,7 +9,7 @@ title: "Home"
 
 <div class="hero-section">
   <div class="profile-container">
-    <img src="assets/images/your-photo.jpg" alt="Profile Photo" class="profile-photo">
+    <img src="assets/images/IMG_0173.JPG" alt="Profile Photo" class="profile-photo">
     <h1 class="animated-text">Saivikaskona</h1>
     <p class="tagline">Researcher | Academic | Innovator</p>
   </div>
