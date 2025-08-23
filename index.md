@@ -1,22 +1,54 @@
 ---
-layout: home
-title: "Sai Vikas Kona"
-subtitle: "Research Scholar | University of Melbourne, Australia | Indian Institute of Science, Bangalore"
+layout: page
+title: "Home"
 ---
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 
-WEBSITE IS CURRENTLY UNDER PROGRESS!!!!!!!
+<div class="animated-bg"></div>
+
+<div class="hero-section">
+  <div class="profile-container">
+    <img src="assets/images/your-photo.jpg" alt="Profile Photo" class="profile-photo">
+    <h1 class="animated-text">Saivikaskona</h1>
+    <p class="tagline">Researcher | Academic | Innovator</p>
+  </div>
+</div>
 
 ## About Me
 
-I am a researcher at the University of Melbourne, Australia and Indian Institute of Science, Bangalore. I work on the dynamics in the relationship between river water discharge and levels.  
+I am a researcher with interests in [your research areas].
 
+My work focuses on [brief description of your work and interests].
+
+## Highlights
+
+- [Key achievement or skill]
+- [Notable project or publication]
+- [Award or recognition]
+
+## Recent Publications
+
+- **[Title of Publication]** - Journal/Conference, Year
+- **[Another Publication]** - Journal/Conference, Year
+
+[View All Publications](/publications)
+
+## Projects
+
+I'm currently working on:
+
+- **[Project Name]**: [Brief description]
+- **[Another Project]**: [Brief description]
+
+[See All Projects](/projects)
 
 ## Contact
 
-- Email: [saikona@iisc.ac.in]
+Feel free to reach out at [your.email@example.com](mailto:your.email@example.com)
 
----
+<div class="social-links">
+  <a href="https://github.com/saivikaskona" class="social-btn">GitHub</a>
+  <!-- Add more social links as needed -->
+</div>
 
-*This website will be updated soon!*
