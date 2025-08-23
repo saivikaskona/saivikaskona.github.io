@@ -1,3 +1,30 @@
-title: Saivikaskona
-description: My academic and research portfolio
-theme: jekyll-theme-minimal
+title: "Saivikaskona"
+author: "Saivikaskona"
+description: "Researcher | Academic Portfolio"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+show_excerpts: true
+show_frame: true
+show_sidebar: false
+minimal: true               # Use dark header
+
+# Menu
+navigation:
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About Me"}
+  - {file: "cv.md", title: "CV"}
+  - {file: "publications.md", title: "Publications"}
+  - {file: "projects.md", title: "Projects"}
+  - {file: "contact.md", title: "Contact"}
+
+external:
+  - {title: Mail, icon: envelope, url: "mailto:your.email@example.com"}
+  - {title: Github, icon: github, url: "https://github.com/saivikaskona"}
+  # Add more social links as needed
+
+plugins:
+ - jekyll-feed
